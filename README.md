@@ -49,6 +49,3 @@ A  Note Management System built with Node.js, Express, and MongoDB, featuring us
 - **CORS**: Configurable cross-origin resource sharing
 - **Rate Limiting**: Protection against brute force attacks
 - **Error Handling**: Secure error responses without sensitive information
-
-## License
-This project is licensed under the ISC License.
